@@ -12,6 +12,9 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 # ==============================================================================
+# Add: 2017/07/11
+# Purpose:leaving comments on code to get the idea of softmax function
+# ==============================================================================
 
 """A very simple MNIST classifier.
 
